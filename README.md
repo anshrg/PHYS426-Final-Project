@@ -1,5 +1,5 @@
-# PHYS426 (Thermal Physics) Final Computational Project - Fermi Gas in a Box
-Final computational project for PHYS 426 - Thermal Physics (University of Arizona)
+Final Computational Project - Fermi Gas in a Box
+Final project for PHYS 426 - Thermal Physics (University of Arizona)
 
 ## Project Description:
 See the accompanying report, **Final Project Report.pdf**, for a full description of the theory, procedure, results, and discussion.
